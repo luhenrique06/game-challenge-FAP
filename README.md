@@ -42,7 +42,7 @@ Definir o gênero principal (pode combinar até 2):
 
 ## Engines e Ferramentas Sugeridas
 
-### Game Engines (Na aula vamos ver Unity, mas podem escolher outra caso queiram)
+### Game Engines (Na aula vamos ver PyGame, mas podem escolher outra caso queiram)
 - **Unity** (C#) 
 - **Godot** (GDScript/C#) 
 - **Unreal Engine** (Blueprint/C++)
